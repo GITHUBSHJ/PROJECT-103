@@ -1,0 +1,19 @@
+button
+{
+	padding-right: 300px;
+	padding-left: 300px;
+	padding-bottom: 10px;
+	text-align: center;
+	color: yellow;
+	background-color:lightblue;
+}
+
+#body,html
+{
+	background-color: green;
+}
+
+#main
+{
+	margin-top: 90px;
+}
